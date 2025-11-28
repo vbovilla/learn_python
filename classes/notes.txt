@@ -1,0 +1,23 @@
+Class Inheritance
+
+Relationships in Object Oriented Programming
+
+Has-a --> A Company has employees
+
+
+Is-a --> A robot dog is a dog
+
+
+
+All Robots
+    Walk
+    Manage Battery
+    Say their name
+
+Dogs
+    Bark
+    Eat Bacon
+
+Cats
+    Meow
+    Eat Fish
